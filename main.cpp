@@ -248,9 +248,6 @@ public:
 	}
 };
 
-//TODO
-//Duplikowanie i usuwanie duplikaotw
-
 int main(int argc, char* argv[]) {
 
 
